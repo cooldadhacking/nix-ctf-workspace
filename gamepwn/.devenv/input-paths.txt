@@ -1,0 +1,7 @@
+/home/f4ther/nix/gamepwn/.devenv/flake.json
+/home/f4ther/nix/gamepwn/.devenv.flake.nix
+/home/f4ther/nix/gamepwn/.env
+/home/f4ther/nix/gamepwn/devenv.local.nix
+/home/f4ther/nix/gamepwn/devenv.lock
+/home/f4ther/nix/gamepwn/devenv.nix
+/home/f4ther/nix/gamepwn/devenv.yaml

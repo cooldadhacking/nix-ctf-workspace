@@ -1,0 +1,8 @@
+/home/f4ther/nix/ICS/.devenv/flake.json
+/home/f4ther/nix/ICS/.devenv.flake.nix
+/home/f4ther/nix/ICS/.env
+/home/f4ther/nix/ICS/devenv.local.nix
+/home/f4ther/nix/ICS/devenv.lock
+/home/f4ther/nix/ICS/devenv.nix
+/home/f4ther/nix/ICS/devenv.yaml
+/home/f4ther/nix/ICS/requirements.txt

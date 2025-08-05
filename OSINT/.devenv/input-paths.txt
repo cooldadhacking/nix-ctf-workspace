@@ -1,0 +1,7 @@
+/home/f4ther/nix/OSINT/.devenv/flake.json
+/home/f4ther/nix/OSINT/.devenv.flake.nix
+/home/f4ther/nix/OSINT/.env
+/home/f4ther/nix/OSINT/devenv.local.nix
+/home/f4ther/nix/OSINT/devenv.lock
+/home/f4ther/nix/OSINT/devenv.nix
+/home/f4ther/nix/OSINT/devenv.yaml

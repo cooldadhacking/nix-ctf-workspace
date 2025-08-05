@@ -1,0 +1,7 @@
+/home/f4ther/nix/coding/.devenv/flake.json
+/home/f4ther/nix/coding/.devenv.flake.nix
+/home/f4ther/nix/coding/.env
+/home/f4ther/nix/coding/devenv.local.nix
+/home/f4ther/nix/coding/devenv.lock
+/home/f4ther/nix/coding/devenv.nix
+/home/f4ther/nix/coding/devenv.yaml

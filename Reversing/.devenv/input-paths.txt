@@ -1,0 +1,7 @@
+/home/f4ther/nix/Reversing/.devenv/flake.json
+/home/f4ther/nix/Reversing/.devenv.flake.nix
+/home/f4ther/nix/Reversing/.env
+/home/f4ther/nix/Reversing/devenv.local.nix
+/home/f4ther/nix/Reversing/devenv.lock
+/home/f4ther/nix/Reversing/devenv.nix
+/home/f4ther/nix/Reversing/devenv.yaml

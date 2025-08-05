@@ -1,0 +1,7 @@
+/home/f4ther/nix/crypto/.devenv/flake.json
+/home/f4ther/nix/crypto/.devenv.flake.nix
+/home/f4ther/nix/crypto/.env
+/home/f4ther/nix/crypto/devenv.local.nix
+/home/f4ther/nix/crypto/devenv.lock
+/home/f4ther/nix/crypto/devenv.nix
+/home/f4ther/nix/crypto/devenv.yaml

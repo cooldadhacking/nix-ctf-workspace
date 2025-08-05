@@ -1,0 +1,38 @@
+# Nix Flake + devenv Modular Architecture (ASCII Diagram)
+
+Root: Project Repo
+
+/
+├── flake.nix              # Root flake for base config, overlays, home-manager
+├── flake.lock             # Locked dependencies for reproducibility
+├── home.nix               # User-level shell/tools config (cross-project)
+├── nixos-config.nix       # (Optional) System-level config (NixOS only)
+├── .goosehints            # Meta/project help (this file)
+│
+├── <challenge>/           # Per-CTF or per-challenge directories (examples below)
+│   └── devenv.nix             # Minimal, per-challenge or category dev shell
+│   └── .devenv.flake.nix     # (optional) Flake support for stricter pinning, advanced
+│   └── devenv.lock           # (optional) Locked on per-challenge basis
+│   └── .goose/               # (optional) Per-challenge Goose notes/memory
+│
+├── ...                   # More challenge dirs as needed
+
+ASCII Example:
+
+/
+├── flake.nix
+├── home.nix
+├── .goosehints
+├── blockchain/
+│   └── devenv.nix
+├── forensics/
+│   └── devenv.nix
+└── windows-ad/
+    └── devenv.nix
+
+Legend:
+- Global config (flake.nix, home.nix): user-wide, all environments
+- Per-<challenge>/devenv.nix: minimal, atomic shell for each CTF/challenge type
+- .goosehints + .goose/: project and per-challenge memory/metadata
+- devenv gives you lightweight subshells with only what you need per challenge
+- system config (nixos-config.nix): only for full NixOS systems (skipped for non-NixOS)

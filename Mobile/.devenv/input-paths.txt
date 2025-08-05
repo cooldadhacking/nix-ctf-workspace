@@ -1,0 +1,7 @@
+/home/f4ther/nix/Mobile/.devenv/flake.json
+/home/f4ther/nix/Mobile/.devenv.flake.nix
+/home/f4ther/nix/Mobile/.env
+/home/f4ther/nix/Mobile/devenv.local.nix
+/home/f4ther/nix/Mobile/devenv.lock
+/home/f4ther/nix/Mobile/devenv.nix
+/home/f4ther/nix/Mobile/devenv.yaml

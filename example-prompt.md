@@ -13,6 +13,9 @@
 
 ---
 
+### Nix Workspace
+Look at $DEVENV_ROOT/devenv.nix to see our preferred tools for the current challenge.
+
 ### **Enumeration Phase**:
 Verify every command is running. Troubleshoot if not
 #### **Port Enumeration**:

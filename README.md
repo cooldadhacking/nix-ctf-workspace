@@ -49,6 +49,8 @@ Designed for power users leveraging local or remote LLM assistants to accelerate
    - You can create additional subdirectories or files within each challenge type as you wish.
    - For per-machine notes, either create a directory or keep your workflow within the LLM memory system or as flat files
 
+6. (optional) Have a custom prompt in each directory or a file that an LLM can read. This file can be used to add instructions to your LLM client. Goose can use .goosehints. Or you can create devenv scripts to automatically update your prompts via jinja templates in LM Studio. The LLM can read the devenv.nix file and you can cater your preferred tools this way.
+
 ## Caveats
 
 - ⚠️ This setup assumes [fish](https://fishshell.com/) is your primary shell.

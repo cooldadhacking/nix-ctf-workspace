@@ -1,7 +1,0 @@
-/home/f4ther/nix/forensics/.devenv/flake.json
-/home/f4ther/nix/forensics/.devenv.flake.nix
-/home/f4ther/nix/forensics/.env
-/home/f4ther/nix/forensics/devenv.local.nix
-/home/f4ther/nix/forensics/devenv.lock
-/home/f4ther/nix/forensics/devenv.nix
-/home/f4ther/nix/forensics/devenv.yaml

@@ -1,7 +1,0 @@
-/home/f4ther/nix/blockchain/.devenv/flake.json
-/home/f4ther/nix/blockchain/.devenv.flake.nix
-/home/f4ther/nix/blockchain/.env
-/home/f4ther/nix/blockchain/devenv.local.nix
-/home/f4ther/nix/blockchain/devenv.lock
-/home/f4ther/nix/blockchain/devenv.nix
-/home/f4ther/nix/blockchain/devenv.yaml

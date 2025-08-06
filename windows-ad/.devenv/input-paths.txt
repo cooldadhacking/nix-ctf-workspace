@@ -1,7 +1,0 @@
-/home/f4ther/nix/windows-ad/.devenv/flake.json
-/home/f4ther/nix/windows-ad/.devenv.flake.nix
-/home/f4ther/nix/windows-ad/.env
-/home/f4ther/nix/windows-ad/devenv.local.nix
-/home/f4ther/nix/windows-ad/devenv.lock
-/home/f4ther/nix/windows-ad/devenv.nix
-/home/f4ther/nix/windows-ad/devenv.yaml

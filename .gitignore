@@ -45,3 +45,4 @@ node_modules/
 # Ignore all .devenv folders and .devenv.flake.nix files everywhere
 **/.devenv/
 **/.devenv.flake.nix
+.goosehints

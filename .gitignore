@@ -42,3 +42,6 @@ node_modules/
 *.pw
 *password*
 **/.local/
+# Ignore all .devenv folders and .devenv.flake.nix files everywhere
+**/.devenv/
+**/.devenv.flake.nix
